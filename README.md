@@ -20,10 +20,10 @@
 <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 ## 📌담당업무
-* 팀장 김태형 : 총괄, DB설계, css 구성/정리, 게시판 설계, 
-* 팀원 임형규 : 회원가입 및 로그인, 소셜API, SIGHT페이지, THE FAN CSS 구체화
-* 팀원 송준우 : API(지도 및 뉴스), EVENT와 NEWS 페이지, 배경선수 CSS, 회원포인트
-* 팀원 정권 : 마이페이지 담당, 전체자료수집, 게시판 초안 작성
+* 김태형 : 총괄, DB설계, css 구성/정리, 게시판 설계, 
+* 임형규 : 회원가입 및 로그인, 소셜API, SIGHT페이지, THE FAN CSS 구체화
+* 송준우 : API(지도 및 뉴스), EVENT와 NEWS 페이지, 배경선수 CSS, 회원포인트
+* 정권 : 마이페이지 담당, 전체자료수집, 게시판 초안 작성
 
 ## 📌페이지별 구현요약
 * **Stadium Sight**
